@@ -1,0 +1,12 @@
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Output data
+data/*.csv
+
+# System files
+.DS_Store
