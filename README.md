@@ -20,7 +20,7 @@ A Python-based web scraper for extracting job listings from platforms like Indee
 
 ## Setup
 1. Clone the repository:
-    git clone https://github.com/yourusername/job-listings-scraper.git cd job-listings-scraper
+    git clone https://github.com/EthanT89/job-listings-scraper.git cd job-listings-scraper
 
 
 2. Install dependencies:
